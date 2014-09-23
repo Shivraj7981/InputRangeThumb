@@ -7,9 +7,10 @@ This plugin enables your range selector to show thumb in every browser
 
 Currently Supporting
 --------------------
-  - Firefox 3.6+
-  - Chrome 17+
-  - Safari 7+
+  - Firefox 23+
+  - Chrome 6+
+  - Safari 4+
+  - Opera 11+
 
 Version
 ----
